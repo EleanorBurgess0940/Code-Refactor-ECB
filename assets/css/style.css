@@ -76,7 +76,6 @@ p {
 .benefits {
     margin-right: 20px;
     padding: 20px;
-    margin-bottom: 20px;
     clear: both;
     float: right;
     width: 20%;
@@ -88,6 +87,7 @@ p {
 }
 
 h3{
+    margin-top:20px;
     margin-bottom: 10px;
     text-align: center;
 }
